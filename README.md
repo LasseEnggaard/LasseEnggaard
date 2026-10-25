@@ -1,6 +1,6 @@
 # Lasse Enggaard
 
-SEO specialist and co-owner of Webro.
+SEO specialist and partner in Webro.
 
 I help businesses get found on Google and by AI. I have worked with SEO since 2015, with a focus on technical SEO, search strategy, content, site structure, internal linking and organic visibility.
 
