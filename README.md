@@ -8,4 +8,4 @@ My background in IT support and web development gives me a technical approach to
 
 I also develop WordPress plugins, including Pillark, a plugin for pillar pages and SEO content clusters.
 
-[Website](https://lasse-enggaard.dk/om/) · [Webro](https://webro.dk/) · [Pillark](https://pillark.org/)
+[Website](https://lasse-enggaard.dk/om/) · [Webro](https://webro.dk/) · [Pillark](https://pillark.org/) · [CMS Spot](https://cmsspot.com/)
